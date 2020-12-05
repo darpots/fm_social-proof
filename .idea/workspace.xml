@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fc825d2-bc89-42f4-b446-7f77c9c2de1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lBdpBRhhZ67pKqV8Vu8AfZG2oY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fc825d2-bc89-42f4-b446-7f77c9c2de1f" name="Default Changelist" comment="" />
+      <created>1607074599353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607074599353</updated>
+      <workItem from="1607074600697" duration="1643000" />
+      <workItem from="1607080902542" duration="219000" />
+      <workItem from="1607081165633" duration="893000" />
+      <workItem from="1607082087278" duration="103000" />
+      <workItem from="1607082210549" duration="206000" />
+      <workItem from="1607082594679" duration="42000" />
+      <workItem from="1607082657312" duration="265000" />
+      <workItem from="1607082945396" duration="561000" />
+      <workItem from="1607083610137" duration="4455000" />
+      <workItem from="1607088236050" duration="9110000" />
+      <workItem from="1607100974295" duration="3513000" />
+      <workItem from="1607104603046" duration="60000" />
+      <workItem from="1607104684716" duration="396000" />
+      <workItem from="1607105290522" duration="2160000" />
+      <workItem from="1607110499415" duration="313000" />
+      <workItem from="1607110852379" duration="371000" />
+      <workItem from="1607111888678" duration="1925000" />
+      <workItem from="1607113821571" duration="445000" />
+      <workItem from="1607114324962" duration="117000" />
+      <workItem from="1607171245058" duration="2180000" />
+      <workItem from="1607173660976" duration="3065000" />
+      <workItem from="1607176755595" duration="6614000" />
+      <workItem from="1607197887140" duration="4414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

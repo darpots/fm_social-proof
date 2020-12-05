@@ -1,0 +1,62 @@
+@import './Colors';
+
+.reviewContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 40px;
+
+  @media screen and (min-width: 1024px) {
+    margin-bottom: 0;
+  }
+
+
+  .reviewBox {
+    background: $LightGrayishMagenta;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 13px;
+    color: $Magenta;
+    letter-spacing: 0;
+    width: 327px;
+    height: 78px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+
+    @media screen and (min-width: 1024px) {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      width: 413px;
+      height: 56px;
+      padding-left: 32px;
+
+      &:nth-child(2) {
+        margin-left: 96px;
+      }
+
+      &:nth-child(3) {
+        margin-left: 192px;
+      }
+    }
+
+
+    .star {
+      margin: 16px 4px;
+      @media screen and (min-width: 1024px) {
+        display: inline;
+      }
+    }
+
+    .reviewText {
+      margin: 0;
+      @media screen and (min-width: 1024px) {
+        display: inline;
+        margin-top: 5px;
+        margin-left: 32px;
+      }
+    }
+  }
+}
+

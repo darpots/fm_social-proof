@@ -1,0 +1,60 @@
+.wrapper {
+  height: 1000px;
+  background-image: url(/bg-pattern-top-mobile.5debac92.svg), url(/bg-pattern-bottom-mobile.e37cad24.svg);
+  background-position: top left, bottom right;
+  background-repeat: no-repeat, no-repeat;
+}
+@media screen and (min-width: 376px) {
+  .wrapper {
+    background-image: url(/bg-pattern-top-desktop.eabc510c.svg), url(/bg-pattern-bottom-desktop.f82eed7d.svg);
+  }
+}
+.header {
+  margin: auto;
+  width: 327px;
+  padding-left: 24px;
+  padding-right: 23px;
+}
+.header h1 {
+  margin: 0;
+  padding-top: 80px;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: -1.14286px;
+  color: #502050;
+}
+@media screen and (min-width: 768px) {
+  .header h1 {
+    font-size: 48px;
+    letter-spacing: -1.71px;
+    line-height: 48px;
+  }
+}
+.header p {
+  margin: 0;
+  padding-top: 18px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  font-weight: 500;
+  color: #937b92;
+}
+@media screen and (min-width: 768px) {
+  .header p {
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    line-height: 25px;
+  }
+}
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700&display=swap");
+body {
+  font-family: "Spartan", sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+
+/*# sourceMappingURL=/social-proof-section.e31bb0bc.css.map */
