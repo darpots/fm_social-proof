@@ -29942,7 +29942,7 @@ function Header(_ref) {
       text = _ref.text;
   return /*#__PURE__*/_react.default.createElement("div", {
     className: "header"
-  }, /*#__PURE__*/_react.default.createElement("h1", null, title), /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("span", null, /*#__PURE__*/_react.default.createElement("div", null, /*#__PURE__*/_react.default.createElement("p", null, text)))));
+  }, /*#__PURE__*/_react.default.createElement("h1", null, title), /*#__PURE__*/_react.default.createElement("p", null, text));
 }
 },{"react":"../node_modules/react/index.js","./Header.scss":"components/Header.scss"}],"images/icon-star.svg":[function(require,module,exports) {
 module.exports = "/icon-star.46c19366.svg";
@@ -30102,7 +30102,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "49274" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54912" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
